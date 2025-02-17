@@ -10,10 +10,10 @@ Exemplo:<br>
 1<br>
 2<br>
 3<br>
-3   5<br>
-2   1    30<br>
-3   -1   20<br>
-1   4    15<br><br>
+3, 5<br>
+2, 1, 30<br>
+3, -1, 20<br>
+1, 4, 15<br><br>
 Essa entrada de dados representa o seguinte modelo:<br><br>
 max 3x1 + 5x2<br>
 s.a.:<br>
